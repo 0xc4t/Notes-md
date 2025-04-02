@@ -1,2 +1,0 @@
-# Notes-md
-Obsidian Backup
